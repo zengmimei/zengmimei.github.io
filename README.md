@@ -1,12 +1,6 @@
-Git test
-git tssst
-git status
-Git tracks changes.
-new branch
-new brancher
-
-Creating a new branch is quick AND simple.
->>>>>>> feature1
-new branch
-<<<<<<< HEAD
-Git is a free software
+#               README
+========================================
+##This is a Repository of My Github Blog
+### I am An Artist After Drunk
+----------------------------------------
+### And I Am An Musician With Drum-beating Announcing The Adjournment of Court
