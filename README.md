@@ -8,4 +8,5 @@ new brancher
 Creating a new branch is quick AND simple.
 >>>>>>> feature1
 new branch
+<<<<<<< HEAD
 Git is a free software
